@@ -1,8 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-690c4266e90765ed354abb0f230bb8ef0329c9e0 refs/heads/master
-d489016ebab51d8e6978e78c8780eacb245ac90d refs/heads/neMain
-fc008c55ad19471eea6426b8f82a97c7f1ae87e6 refs/heads/pr23
-68a0d5ec15ebfc4dde691c0e817e01c63647c2e9 refs/heads/style
-d489016ebab51d8e6978e78c8780eacb245ac90d refs/tags/v1
-ba6d5c64d90660e037412205a34d2c61ea2c678a refs/tags/v1-beta
-ba6d5c64d90660e037412205a34d2c61ea2c678a refs/tags/v1-betato
